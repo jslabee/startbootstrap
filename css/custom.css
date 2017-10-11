@@ -1,0 +1,10 @@
+#naslov{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+
+}
+#osnovni{
+  display: flex;
+  justify-content: center;
+}
